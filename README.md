@@ -1,0 +1,2 @@
+# pAequorDNA
+Creating a function which returns an object (an organism called "Pila Aequor"). The function's objective is to be able to mutate its DNA sequence, finding the common DNA percetage between two different organisms, how likely it is to survive (based on some DNA bases frequency), creating and array of 30 organisms that will survive and transformating their DNA sequence so they would not change. All of this using methods inside an object. 
